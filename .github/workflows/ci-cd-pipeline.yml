@@ -1,0 +1,45 @@
+name: CI/CD Pipeline
+
+on:
+  push:
+    branches:
+      - main
+      - master
+  pull_request:
+    branches:
+      - main
+      - master
+
+jobs:
+  build-and-test:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: 🚀 Checkout código
+        uses: actions/checkout@v3
+
+      - name: 🧑‍💻 Configurar .NET
+        uses: actions/setup-dotnet@v3
+        with:
+          dotnet-version: '9.0.100'
+
+      - name: 📦 Restaurar dependências
+        run: dotnet restore
+
+      - name: 🔨 Compilar a aplicação
+        run: dotnet build --configuration Release --no-restore
+
+      - name: 🧪 Executar Testes
+        run: dotnet test --no-restore --verbosity normal
+
+  deploy:
+    needs: build-and-test
+    runs-on: ubuntu-latest
+    if: github.ref == 'refs/heads/main'
+
+    steps:
+      - name: 🚀 Checkout código
+        uses: actions/checkout@v3
+
+      - name: 📦 Publicar para Produção (Simulado)
+        run: echo "Deploy seria feito aqui para Azure ou outro ambiente"

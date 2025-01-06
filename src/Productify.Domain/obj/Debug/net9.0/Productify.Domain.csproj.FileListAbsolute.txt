@@ -1,0 +1,12 @@
+C:\dev\ProductifyAPI\src\Productify.Domain\bin\Debug\net9.0\Productify.Domain.deps.json
+C:\dev\ProductifyAPI\src\Productify.Domain\bin\Debug\net9.0\Productify.Domain.dll
+C:\dev\ProductifyAPI\src\Productify.Domain\bin\Debug\net9.0\Productify.Domain.pdb
+C:\dev\ProductifyAPI\src\Productify.Domain\obj\Debug\net9.0\Productify.Domain.csproj.AssemblyReference.cache
+C:\dev\ProductifyAPI\src\Productify.Domain\obj\Debug\net9.0\Productify.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\ProductifyAPI\src\Productify.Domain\obj\Debug\net9.0\Productify.Domain.AssemblyInfoInputs.cache
+C:\dev\ProductifyAPI\src\Productify.Domain\obj\Debug\net9.0\Productify.Domain.AssemblyInfo.cs
+C:\dev\ProductifyAPI\src\Productify.Domain\obj\Debug\net9.0\Productify.Domain.csproj.CoreCompileInputs.cache
+C:\dev\ProductifyAPI\src\Productify.Domain\obj\Debug\net9.0\Productify.Domain.dll
+C:\dev\ProductifyAPI\src\Productify.Domain\obj\Debug\net9.0\refint\Productify.Domain.dll
+C:\dev\ProductifyAPI\src\Productify.Domain\obj\Debug\net9.0\Productify.Domain.pdb
+C:\dev\ProductifyAPI\src\Productify.Domain\obj\Debug\net9.0\ref\Productify.Domain.dll

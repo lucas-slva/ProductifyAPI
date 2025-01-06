@@ -1,0 +1,17 @@
+C:\dev\ProductifyAPI\src\Productify.Infrastructure\bin\Debug\net9.0\Productify.Infrastructure.deps.json
+C:\dev\ProductifyAPI\src\Productify.Infrastructure\bin\Debug\net9.0\Productify.Infrastructure.runtimeconfig.json
+C:\dev\ProductifyAPI\src\Productify.Infrastructure\bin\Debug\net9.0\Productify.Infrastructure.dll
+C:\dev\ProductifyAPI\src\Productify.Infrastructure\bin\Debug\net9.0\Productify.Infrastructure.pdb
+C:\dev\ProductifyAPI\src\Productify.Infrastructure\bin\Debug\net9.0\Productify.Domain.dll
+C:\dev\ProductifyAPI\src\Productify.Infrastructure\bin\Debug\net9.0\Productify.Domain.pdb
+C:\dev\ProductifyAPI\src\Productify.Infrastructure\obj\Debug\net9.0\Productify.Infrastructure.csproj.AssemblyReference.cache
+C:\dev\ProductifyAPI\src\Productify.Infrastructure\obj\Debug\net9.0\Productify.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\ProductifyAPI\src\Productify.Infrastructure\obj\Debug\net9.0\Productify.Infrastructure.AssemblyInfoInputs.cache
+C:\dev\ProductifyAPI\src\Productify.Infrastructure\obj\Debug\net9.0\Productify.Infrastructure.AssemblyInfo.cs
+C:\dev\ProductifyAPI\src\Productify.Infrastructure\obj\Debug\net9.0\Productify.Infrastructure.csproj.CoreCompileInputs.cache
+C:\dev\ProductifyAPI\src\Productify.Infrastructure\obj\Debug\net9.0\Producti.C28F7134.Up2Date
+C:\dev\ProductifyAPI\src\Productify.Infrastructure\obj\Debug\net9.0\Productify.Infrastructure.dll
+C:\dev\ProductifyAPI\src\Productify.Infrastructure\obj\Debug\net9.0\refint\Productify.Infrastructure.dll
+C:\dev\ProductifyAPI\src\Productify.Infrastructure\obj\Debug\net9.0\Productify.Infrastructure.pdb
+C:\dev\ProductifyAPI\src\Productify.Infrastructure\obj\Debug\net9.0\Productify.Infrastructure.genruntimeconfig.cache
+C:\dev\ProductifyAPI\src\Productify.Infrastructure\obj\Debug\net9.0\ref\Productify.Infrastructure.dll

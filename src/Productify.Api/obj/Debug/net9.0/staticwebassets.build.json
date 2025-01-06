@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "BeQ2HJr0QHu4wiDufESVvvbhRvx8ZVT58zJQrLk0aCM=",
+  "Source": "Productify.Api",
+  "BasePath": "_content/Productify.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
