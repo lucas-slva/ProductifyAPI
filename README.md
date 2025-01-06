@@ -105,4 +105,4 @@ The following tests are implemented with **xUnit** and **Moq**:
 &nbsp;
 
 ## 📧 **Contact**
-My LinkedIn: [Lucas Silva](https://www.linkedin.com/in/lucas-slva/)  
+My LinkedIn: [Lucas Silva](https://www.linkedin.com/in/-lucassva/)
