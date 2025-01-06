@@ -31,7 +31,7 @@ jobs:
         run: dotnet build --no-restore --configuration Release
 
   test:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-24.04
     needs: build
     steps:
       - name: Checkout repository
