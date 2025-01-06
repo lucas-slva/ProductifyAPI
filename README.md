@@ -98,11 +98,5 @@ The following tests are implemented with **xUnit** and **Moq**:
 
 &nbsp;
 
-## 🎯 **Next Steps:**
-- ✅ Complete CI/CD with GitHub Actions.
-- ✅ Deploy API to a free cloud platform (like Azure or Render).
-
-&nbsp;
-
 ## 📧 **Contact**
 My LinkedIn: [Lucas Silva](https://www.linkedin.com/in/-lucassva/)
